@@ -1,0 +1,51 @@
+C:\Users\Italo\Desktop\JodoDaVelha\JodoDaVelha\bin\Debug\JodoDaVelha.exe.config
+C:\Users\Italo\Desktop\JodoDaVelha\JodoDaVelha\bin\Debug\JodoDaVelha.exe
+C:\Users\Italo\Desktop\JodoDaVelha\JodoDaVelha\bin\Debug\JodoDaVelha.pdb
+C:\Users\Italo\Desktop\JodoDaVelha\JodoDaVelha\obj\Debug\JodoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Desktop\JodoDaVelha\JodoDaVelha\obj\Debug\JodoDaVelha.Form1.resources
+C:\Users\Italo\Desktop\JodoDaVelha\JodoDaVelha\obj\Debug\JodoDaVelha.Properties.Resources.resources
+C:\Users\Italo\Desktop\JodoDaVelha\JodoDaVelha\obj\Debug\JodoDaVelha.csproj.GenerateResource.Cache
+C:\Users\Italo\Desktop\JodoDaVelha\JodoDaVelha\obj\Debug\JodoDaVelha.exe
+C:\Users\Italo\Desktop\JodoDaVelha\JodoDaVelha\obj\Debug\JodoDaVelha.pdb
+C:\Users\Italo\Desktop\JodoDaVelha 1.0\JodoDaVelha\bin\Debug\JodoDaVelha.exe.config
+C:\Users\Italo\Desktop\JodoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.exe
+C:\Users\Italo\Desktop\JodoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.pdb
+C:\Users\Italo\Desktop\JodoDaVelha 1.0\JodoDaVelha\bin\Debug\JodoDaVelha.exe
+C:\Users\Italo\Desktop\JodoDaVelha 1.0\JodoDaVelha\bin\Debug\JodoDaVelha.pdb
+C:\Users\Italo\Desktop\JodoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Desktop\JodoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.Form1.resources
+C:\Users\Italo\Desktop\JodoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.Properties.Resources.resources
+C:\Users\Italo\Desktop\JodoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.csproj.GenerateResource.Cache
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\bin\Debug\JodoDaVelha.exe.config
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.exe
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.pdb
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\bin\Debug\JodoDaVelha.exe
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\bin\Debug\JodoDaVelha.pdb
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.Properties.Resources.resources
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.csproj.GenerateResource.Cache
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.Mesa.resources
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.Menu.resources
+C:\Users\Italo\Documents\AD$ M1l Gr4u\P00\Projeto de casa\JogoDaVelha 1.0\JodoDaVelha\obj\Debug\JodoDaVelha.Mesa1J.resources
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\bin\Debug\JodoDaVelha.exe.config
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\obj\Debug\JodoDaVelha.exe
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\obj\Debug\JodoDaVelha.pdb
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\bin\Debug\JodoDaVelha.exe
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\bin\Debug\JodoDaVelha.pdb
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\obj\Debug\JodoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\obj\Debug\JodoDaVelha.Mesa1J.resources
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\obj\Debug\JodoDaVelha.Mesa.resources
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\obj\Debug\JodoDaVelha.Menu.resources
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\obj\Debug\JodoDaVelha.Properties.Resources.resources
+C:\Users\Italo\Desktop\JogoDaVelha 2.0\JodoDaVelha\obj\Debug\JodoDaVelha.csproj.GenerateResource.Cache
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\bin\Debug\JodoDaVelha.exe.config
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\obj\Debug\JodoDaVelha.exe
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\obj\Debug\JodoDaVelha.pdb
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\bin\Debug\JodoDaVelha.exe
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\bin\Debug\JodoDaVelha.pdb
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\obj\Debug\JodoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\obj\Debug\JodoDaVelha.Mesa1J.resources
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\obj\Debug\JodoDaVelha.Mesa.resources
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\obj\Debug\JodoDaVelha.Menu.resources
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\obj\Debug\JodoDaVelha.Properties.Resources.resources
+C:\Users\Italo\Desktop\JogoDaVelha 2.1\JodoDaVelha\obj\Debug\JodoDaVelha.csproj.GenerateResource.Cache
